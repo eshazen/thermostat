@@ -1,5 +1,7 @@
 # Thermostat ideas
 
+[test link](./TEST.md)
+
 Thinking a bit along the Nest(TM) line:
 
 * Simple on-board UI with e-ink display and a knob
